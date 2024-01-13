@@ -1,1 +1,3 @@
 Se añade el archivo 3, laboratorio de Git
+
+Se hace este otro ajuste PTS.
